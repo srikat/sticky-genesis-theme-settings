@@ -1,0 +1,36 @@
+.heading-links {
+	margin-bottom: 20px;
+	padding: 0 10px;
+	border: 1px solid #ddd;
+	background-color: #fff;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+	text-align: center;;
+}
+
+.heading-links ul {
+	margin: 10px 0;
+	line-height: 1;
+}
+
+.heading-links li {
+	display: inline-block;
+	margin-bottom: 0;
+}
+
+.heading-links li a {
+	display: block;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+@media only screen and (min-width: 818px) {
+
+	.heading-links {
+		position: -webkit-sticky;
+		position: sticky;
+		z-index: 1;
+		top: 32px;
+	}
+
+}
