@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Sticky Genesis Theme Settings
  * Plugin URI: https://github.com/srikat/Sticky-Genesis-Theme-Settings
- * Description: A simple plugin to add smooth scrolling jump links on the Genesis theme settings page in the WordPress backend.
+ * Description: Adds smooth scrolling jump links on the Genesis theme settings page in the WordPress backend.
  * Version: 1.0.0
  * Author: Sridhar Katakam
  * Author URI: https://sridharkatakam.com/

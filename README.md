@@ -2,6 +2,10 @@
 
 A WordPress plugin to add smooth scrolling jump links on the Genesis theme settings page in the WordPress backend.
 
+Needs Javascript to be enabled in the browser.
+
+The section links are set to be sticky from 818px and above.
+
 ![Screenshot](http://d.pr/i/NVvqjb+)
 
 ## Screencast
@@ -14,7 +18,7 @@ A WordPress plugin to add smooth scrolling jump links on the Genesis theme setti
 2. Upload the entire `sticky-genesis-theme-settings` folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the `Plugins` menu in WordPress.
 
-## Changelog
+## Change log
 
 ### 1.0.0
 * Initial Release
